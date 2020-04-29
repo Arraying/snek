@@ -1,0 +1,9 @@
+[package]
+name = "snek"
+version = "0.1.0"
+authors = ["Arraying"]
+edition = "2018"
+
+[dependencies]
+rand = "0.7.3"
+piston_window = "0.108.0"
